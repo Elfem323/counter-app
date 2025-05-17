@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    background-color: ghostwhite;
+}
+
+.container{
+    background-color: ghostwhite;
+    width: 100%;
+    height: 100vh;
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+}
